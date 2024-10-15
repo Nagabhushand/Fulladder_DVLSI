@@ -1,6 +1,6 @@
 # Fulladder_DVLSI
 
-In this project, I have simulated circuit of full adder and hald adder using nand gates.
+In this project, I have simulated circuit of full adder and half adder using nand gates.
 
 Calculated delay and power of the schematics.
 
